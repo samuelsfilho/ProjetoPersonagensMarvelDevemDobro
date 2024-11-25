@@ -12,5 +12,6 @@
             <img src="https://github.com/samuelsfilho/ProjetoPersonagensMarvelDevemDobro/blob/main/Src/imagens/Tela.png" alt="Seleção Personagens Marvel">
         </div>
     </main>
+    <p>Projeto em Desenvolvimento com HTML,CSS e JavaScript,orientado pelo curso DevemDobro</p>
 </body>
 </html>
